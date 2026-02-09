@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+}
+
+.app {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 12px;
+}
